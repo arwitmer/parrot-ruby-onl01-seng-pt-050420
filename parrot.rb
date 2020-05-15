@@ -2,5 +2,5 @@
 # returns the phrase
 
 def (phrase = "Squawk!")
-  puts "Squawk!"
+  puts (phrase)
 end
