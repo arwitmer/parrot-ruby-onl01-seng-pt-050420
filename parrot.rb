@@ -3,5 +3,4 @@
 
 def (phrase = "Squawk!")
   puts (phrase)
-  "Squawk"
 end
